@@ -12,5 +12,5 @@ How to use:
 * The tests do not test newMonth with invalid input
 
 # Credits
-Credit to Omer Ziv (https://github.com/omrzv) for the tester.sh file.
-Credit to Bar for Readme
+* Credit to Omer Ziv (https://github.com/omrzv) for the tester.sh file.
+* Credit to Bar kalandarov (https://github.com/bar-kalandarov/) for Readme
