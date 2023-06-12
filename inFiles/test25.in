@@ -1,0 +1,1004 @@
+newMonth 26 [14 18 16 10 8 6 18 4 11 8 3 16 3 17 2 13 18 5 9 4 5 12 4 3 11 13]
+addCostumer 139 118
+addCostumer 94 69
+addCostumer 114 223
+putOnTop 0 5
+addPrize 112 189 36
+buyRecord 114 6
+addPrize 47 325 19
+getExpenses 114
+addCostumer 29 142
+makeMember 114
+makeMember 29
+getExpenses 29
+addCostumer 70 113
+addPrize 67 305 59
+getPhone 94
+addPrize -1 178 12
+addPrize 173 221 79
+getExpenses 94
+getPlace 8
+getExpenses 139
+getExpenses 114
+addCostumer 214 87
+getPlace 8
+getExpenses 70
+putOnTop 23 9
+makeMember 114
+putOnTop 12 23
+addCostumer 192 214
+getPlace 26
+getPhone 114
+isMember 29
+addCostumer 120 123
+putOnTop -1 7
+getPhone -15
+putOnTop 11 -1
+isMember 70
+getPlace 14
+addCostumer 161 93
+getPhone 114
+addPrize 52 3 97
+makeMember 214
+putOnTop 10 8
+addPrize 6 291 69
+putOnTop 22 13
+addCostumer 5 78
+addCostumer 42 126
+putOnTop 6 22
+buyRecord 214 25
+buyRecord 5 18
+makeMember 114
+addCostumer 206 244
+addCostumer 48 137
+isMember 29
+getPlace -1
+buyRecord 214 -84
+getExpenses 48
+isMember 5
+buyRecord 94 21
+getPlace 9
+addPrize 22 272 56
+makeMember 214
+addPrize 144 202 84
+putOnTop 10 3
+putOnTop 18 7
+getExpenses 114
+putOnTop 23 26
+getPlace 1
+addCostumer -5 127
+makeMember 94
+makeMember 161
+makeMember 94
+makeMember 161
+getExpenses 139
+makeMember 70
+getPlace 4
+addPrize 229 242 54
+isMember 161
+buyRecord 94 -67
+addCostumer 129 54
+makeMember 139
+putOnTop 10 24
+addCostumer 245 211
+addPrize 163 109 44
+getExpenses 120
+getPlace 5
+getPlace 2
+addCostumer 178 218
+getPlace 29
+getPhone 206
+getExpenses 214
+makeMember 206
+addPrize 108 248 36
+addCostumer -2 54
+getPhone 192
+getExpenses 145
+addCostumer 233 120
+getPlace 17
+isMember 104
+putOnTop 4 0
+putOnTop 5 17
+getExpenses 245
+makeMember -19
+addCostumer 165 85
+makeMember 206
+makeMember 29
+getExpenses 206
+buyRecord 120 9
+getPhone 206
+addPrize 114 335 64
+addPrize 94 89 26
+makeMember 139
+putOnTop 21 21
+isMember 206
+isMember 129
+putOnTop 13 28
+addPrize 87 42 2
+buyRecord 245 19
+isMember 42
+isMember 5
+buyRecord 70 13
+getPlace 6
+isMember 120
+buyRecord 94 22
+buyRecord 165 -70
+isMember 94
+putOnTop 27 27
+getPlace 8
+isMember 94
+getPlace 11
+getExpenses 245
+getExpenses 129
+getExpenses 96
+isMember 94
+isMember 154
+addPrize 81 313 55
+isMember 114
+putOnTop 21 10
+getPhone 206
+makeMember 139
+getExpenses 233
+addCostumer 137 113
+getPlace 11
+makeMember 94
+addCostumer 104 42
+isMember -67
+addCostumer 4 211
+getPhone -27
+getExpenses 42
+getPlace 11
+addCostumer 122 171
+makeMember -78
+getExpenses 233
+makeMember 233
+putOnTop 24 8
+putOnTop 1 12
+buyRecord 161 36
+getPhone 129
+isMember 245
+getPhone 192
+putOnTop 16 3
+isMember 214
+makeMember 161
+addPrize 220 246 97
+addCostumer 39 145
+addPrize 21 117 76
+getExpenses 29
+makeMember 48
+getPlace 4
+buyRecord 39 7
+putOnTop 17 8
+getExpenses 193
+getExpenses 48
+getExpenses 5
+buyRecord 233 5
+isMember 247
+addPrize 11 287 63
+getPlace 7
+isMember 122
+addPrize 180 336 79
+makeMember 39
+makeMember 206
+addCostumer 74 214
+addPrize 121 70 43
+getExpenses 74
+makeMember 139
+getPhone 74
+getPlace 14
+getPlace 12
+getPhone 4
+buyRecord 139 8
+isMember 129
+getExpenses 5
+getPlace 27
+addCostumer 202 48
+getExpenses 42
+getPlace -1
+getPhone 114
+getPhone 70
+getExpenses 233
+putOnTop 27 21
+addCostumer 38 107
+addPrize 218 231 62
+getPhone 4
+getExpenses 104
+makeMember 220
+addPrize 28 265 57
+addPrize 234 331 31
+getPhone 129
+isMember 48
+addPrize 32 336 80
+makeMember 29
+makeMember 48
+putOnTop 20 28
+buyRecord 88 3
+buyRecord 29 6
+makeMember 5
+getPlace 17
+makeMember 114
+buyRecord 192 10
+makeMember 245
+buyRecord 129 3
+getPhone 233
+putOnTop 4 15
+buyRecord 74 11
+getPlace 17
+makeMember 192
+putOnTop 9 3
+addCostumer 160 154
+addPrize 24 3 46
+makeMember 42
+getPhone -36
+isMember 161
+getExpenses 233
+getPhone 70
+addCostumer 132 187
+getPlace 22
+putOnTop 5 6
+buyRecord 5 12
+getPlace 27
+isMember 94
+getPlace 4
+addCostumer 118 186
+putOnTop 16 1
+addCostumer 211 103
+buyRecord 139 -49
+getPhone 161
+makeMember 29
+addCostumer 140 5
+getPlace 12
+addCostumer 83 218
+putOnTop 0 17
+getPlace 15
+putOnTop 19 17
+putOnTop 25 25
+putOnTop 28 19
+getExpenses 118
+buyRecord 178 1
+buyRecord 70 -22
+getExpenses 178
+isMember 202
+getExpenses 192
+addPrize 154 31 94
+getPlace 25
+addCostumer 208 128
+getPhone 70
+putOnTop 27 19
+buyRecord 5 15
+putOnTop 18 26
+addPrize 13 54 77
+makeMember -18
+getPhone 233
+getPhone 70
+addCostumer 38 101
+getPhone 250
+addPrize 89 200 52
+getExpenses 83
+getPhone 74
+putOnTop 12 19
+getExpenses 38
+getExpenses 70
+buyRecord 42 21
+getExpenses 214
+addCostumer 0 131
+putOnTop 24 18
+addCostumer 148 103
+addPrize 194 340 69
+isMember 214
+isMember 148
+putOnTop 25 11
+makeMember 118
+makeMember 137
+getExpenses 140
+getPlace 29
+getExpenses 137
+putOnTop 8 5
+isMember 104
+getExpenses 211
+makeMember 214
+getPlace 26
+addCostumer 219 106
+buyRecord 39 33
+getPhone 241
+addPrize 236 132 59
+makeMember 104
+getExpenses 202
+addCostumer 129 117
+getPhone 122
+buyRecord 104 34
+isMember 219
+getExpenses 118
+addCostumer 217 25
+isMember 192
+putOnTop 4 15
+getPhone 74
+getPlace 2
+buyRecord 118 1
+isMember 74
+addCostumer 223 78
+isMember 160
+buyRecord 140 16
+makeMember 91
+putOnTop 5 5
+getExpenses 104
+addCostumer 133 111
+addPrize 181 105 86
+getExpenses 235
+getExpenses -19
+getPlace 8
+makeMember 192
+buyRecord 206 5
+makeMember 217
+makeMember -77
+isMember 160
+getPhone 208
+putOnTop 4 26
+getExpenses 208
+buyRecord 129 6
+buyRecord 192 4
+putOnTop -1 10
+getExpenses -50
+getExpenses 4
+addPrize 113 350 36
+buyRecord 219 15
+getExpenses -44
+isMember 217
+buyRecord 74 1
+addPrize 135 103 87
+getPlace 29
+addCostumer 222 87
+getPhone 4
+isMember -74
+addPrize 108 350 43
+getExpenses 223
+getPhone 94
+getPhone 239
+buyRecord 120 2
+addCostumer 179 128
+getExpenses 94
+addCostumer 125 148
+makeMember 239
+getPhone -99
+getPhone 140
+getExpenses 133
+addCostumer 215 7
+putOnTop 9 10
+buyRecord 202 12
+addPrize 1 66 98
+addCostumer 204 3
+addCostumer 3 174
+getExpenses 202
+putOnTop 22 2
+getExpenses 161
+isMember 49
+buyRecord 202 20
+isMember -68
+isMember 143
+isMember 219
+buyRecord 4 6
+addPrize 0 300 73
+isMember 3
+getExpenses 33
+putOnTop 9 18
+getExpenses -66
+buyRecord 29 1
+getPlace 5
+getExpenses 125
+addCostumer 158 147
+addPrize 227 336 31
+isMember 206
+addCostumer 239 179
+buyRecord 214 23
+makeMember 137
+addPrize 235 109 42
+buyRecord 94 17
+getExpenses -34
+makeMember 140
+getExpenses 42
+getPlace 13
+getPhone 158
+getPhone 219
+addPrize 206 296 52
+addCostumer 118 167
+addPrize 249 91 2
+buyRecord 211 0
+putOnTop 0 6
+addCostumer 136 145
+makeMember 211
+addPrize 22 241 100
+buyRecord 148 34
+getPlace 23
+isMember 139
+buyRecord 160 19
+buyRecord 206 24
+makeMember -45
+buyRecord 114 1
+addCostumer 72 5
+addPrize 104 13 62
+makeMember 204
+getExpenses 239
+getPhone 133
+getPhone 3
+getPhone 94
+getExpenses 158
+getPhone 217
+isMember 5
+getPhone 104
+addPrize 44 118 78
+makeMember -70
+getPlace 25
+getExpenses 42
+makeMember 63
+putOnTop 22 14
+isMember 129
+addPrize 241 175 59
+getPhone 144
+getPlace 13
+isMember 245
+putOnTop 7 20
+getPhone 148
+buyRecord 133 14
+buyRecord 208 0
+addCostumer 132 177
+makeMember 179
+getPhone -17
+addPrize 147 309 37
+getExpenses 178
+getExpenses 120
+getPhone 161
+addCostumer 159 174
+addPrize 190 291 62
+makeMember 74
+getExpenses 219
+buyRecord 245 6
+getPhone 136
+putOnTop 5 -1
+addCostumer 211 173
+makeMember 192
+putOnTop 19 17
+getPlace 21
+getPlace 5
+makeMember 223
+buyRecord 223 26
+addPrize 213 332 58
+buyRecord 223 23
+buyRecord 233 11
+buyRecord 4 6
+buyRecord 159 16
+getExpenses 148
+getPhone 82
+getExpenses -58
+getExpenses 94
+getPhone 137
+addPrize 170 213 51
+getPlace 28
+isMember 223
+addPrize 228 102 6
+getPhone 48
+addCostumer 65 153
+makeMember 159
+isMember 29
+putOnTop 3 25
+makeMember 238
+getExpenses -100
+isMember 137
+addPrize 138 261 43
+getPlace 4
+getPhone 102
+putOnTop 14 13
+getPlace 20
+getExpenses 188
+getExpenses 65
+buyRecord 245 9
+addPrize 1 311 16
+getPlace 1
+buyRecord 223 7
+getExpenses 245
+isMember 160
+makeMember 233
+makeMember 219
+getExpenses -62
+buyRecord 148 14
+getPlace 19
+isMember -17
+buyRecord 215 2
+addPrize 41 131 13
+buyRecord 65 32
+getPhone 191
+isMember 60
+buyRecord 206 20
+newMonth 22 [18 14 3 9 4 15 15 8 1 14 17 19 10 17 4 15 13 3 5 16 10 14]
+isMember 133
+getPlace -2
+addCostumer 143 53
+buyRecord 94 22
+getExpenses 0
+addCostumer 86 142
+isMember 178
+getExpenses 86
+getPhone 206
+addCostumer 183 0
+buyRecord 39 6
+getExpenses 133
+isMember 137
+makeMember 26
+getPlace 22
+buyRecord 161 16
+addPrize 37 301 30
+getPhone 162
+getPhone 104
+getPhone 133
+addPrize 25 137 22
+getExpenses 140
+getExpenses 132
+getExpenses 239
+addCostumer -4 153
+makeMember 139
+buyRecord 147 11
+getPhone 215
+getPlace 17
+putOnTop 10 12
+getPhone 118
+isMember 208
+addPrize 119 85 92
+isMember 86
+putOnTop 16 0
+addCostumer 143 247
+getExpenses 86
+getPhone 118
+putOnTop 18 7
+buyRecord 208 11
+addPrize 63 343 35
+makeMember 206
+getPhone 206
+getExpenses 129
+getPhone 125
+getPlace 23
+buyRecord 204 2
+isMember -51
+putOnTop 2 5
+getExpenses 133
+getPlace 18
+putOnTop 5 3
+addCostumer 95 70
+putOnTop -1 10
+getExpenses 48
+putOnTop 22 23
+getPlace 8
+getPhone 223
+buyRecord 104 6
+addPrize 166 42 51
+getPhone -48
+makeMember 159
+getPhone 161
+buyRecord 136 9
+addPrize 153 124 65
+addCostumer 236 72
+getPlace -2
+isMember 161
+getPlace 2
+addPrize 128 19 9
+addPrize 64 56 86
+getExpenses 94
+isMember 14
+addCostumer 75 123
+getPhone 133
+getExpenses 72
+getPhone 173
+putOnTop 13 19
+getPlace 15
+buyRecord -42 8
+makeMember 222
+getExpenses 140
+buyRecord 38 3
+getExpenses 94
+addPrize 72 233 67
+putOnTop 9 20
+addCostumer 18 222
+isMember 38
+makeMember -66
+addPrize 12 289 83
+getPlace 26
+makeMember -69
+getExpenses 217
+isMember 122
+buyRecord 159 21
+isMember -84
+isMember 158
+putOnTop -1 9
+putOnTop 22 20
+makeMember 132
+addCostumer 200 27
+addCostumer 124 22
+addCostumer 169 220
+buyRecord 83 30
+addCostumer 110 103
+getPhone 236
+isMember 4
+addCostumer 41 168
+makeMember 233
+makeMember 75
+addPrize 177 218 3
+getExpenses 0
+getExpenses 223
+buyRecord 178 2
+getPhone 65
+makeMember 3
+makeMember 94
+getPlace 8
+isMember 211
+addPrize 58 69 77
+getPhone 215
+putOnTop 23 19
+buyRecord 122 9
+makeMember 118
+putOnTop 6 10
+buyRecord 159 14
+isMember -64
+buyRecord 233 12
+addPrize 22 258 89
+isMember 38
+makeMember 18
+addPrize 20 332 32
+addCostumer 150 160
+addCostumer 130 182
+getPhone 4
+getExpenses 143
+putOnTop 13 24
+getPhone 102
+buyRecord 217 26
+buyRecord 114 10
+buyRecord 215 14
+makeMember 223
+makeMember 169
+getPlace 6
+getPlace 1
+addPrize 210 325 51
+getPhone 215
+getExpenses 148
+getPlace 12
+addCostumer 105 167
+addPrize 136 133 49
+buyRecord 3 20
+getPlace -2
+getPhone 160
+getPhone 150
+getPlace 12
+putOnTop 15 13
+buyRecord 118 13
+buyRecord 217 8
+putOnTop 20 12
+addPrize 190 151 35
+getPlace 10
+addPrize 65 110 6
+buyRecord 72 11
+makeMember 3
+isMember 169
+getPhone 29
+getExpenses 169
+buyRecord 129 18
+getExpenses 206
+isMember 125
+isMember 215
+getExpenses 200
+makeMember 159
+addCostumer 191 3
+isMember 141
+addCostumer 69 50
+addPrize 141 325 36
+putOnTop 3 11
+getPhone 160
+addPrize 120 326 95
+addPrize 17 237 53
+addPrize 11 65 77
+isMember 101
+addCostumer 108 165
+getPlace 26
+isMember 136
+makeMember 178
+addCostumer 87 199
+addCostumer 29 132
+getPlace 7
+getExpenses -30
+getPhone 200
+isMember 130
+getPhone 158
+makeMember -3
+putOnTop 16 2
+addCostumer 221 235
+addPrize 139 344 15
+getExpenses 34
+getPlace 4
+putOnTop 6 4
+buyRecord 65 14
+addPrize 158 120 8
+getExpenses 140
+addCostumer 14 103
+getPlace 8
+putOnTop 14 15
+getPhone 245
+buyRecord 122 6
+isMember -98
+buyRecord 239 -74
+addPrize 4 68 92
+putOnTop 3 12
+getPhone 84
+getPlace 23
+getPhone 129
+isMember -80
+buyRecord 236 6
+makeMember 0
+addPrize 167 32 93
+getPlace 6
+getPlace 21
+getPlace 13
+buyRecord 95 7
+isMember 219
+makeMember 166
+addCostumer 219 65
+getPlace 12
+buyRecord 222 9
+buyRecord -95 20
+makeMember 41
+getPhone 137
+addCostumer 213 89
+getPhone 65
+getPlace 15
+isMember 74
+buyRecord 236 24
+addPrize 19 266 84
+addPrize 6 337 2
+isMember 211
+isMember 183
+getExpenses 211
+makeMember 133
+addPrize 110 222 63
+putOnTop 0 21
+buyRecord 86 11
+buyRecord 69 12
+isMember -54
+putOnTop 18 18
+getPhone 219
+getPhone 178
+addCostumer 104 16
+addCostumer 94 227
+getPhone 132
+addPrize 46 141 73
+buyRecord 236 16
+makeMember 236
+addCostumer 59 116
+getPhone 245
+buyRecord -61 4
+getExpenses 65
+getExpenses 236
+makeMember 114
+addPrize 142 266 75
+isMember 179
+getExpenses 161
+isMember 146
+getPhone 183
+putOnTop 6 15
+getPlace 7
+buyRecord 4 17
+buyRecord 223 1
+getExpenses 239
+addPrize 160 161 40
+addPrize 211 139 90
+makeMember 143
+putOnTop -1 18
+addPrize 7 329 45
+getExpenses 75
+addCostumer 182 -3
+makeMember 98
+isMember 150
+getPhone -1
+addCostumer 128 115
+addCostumer 82 16
+putOnTop 4 10
+makeMember 122
+getExpenses -73
+addCostumer 85 249
+isMember 82
+isMember 156
+makeMember 72
+buyRecord 94 20
+getExpenses 124
+addCostumer 77 41
+addPrize 102 173 76
+isMember 87
+putOnTop 21 6
+isMember 105
+putOnTop 8 10
+putOnTop 17 17
+getPlace 12
+addCostumer 196 43
+getExpenses -26
+makeMember 29
+isMember 132
+addCostumer 87 69
+buyRecord 148 20
+makeMember 41
+addCostumer 30 236
+getPlace 12
+makeMember 213
+getPlace 12
+putOnTop 16 4
+isMember 150
+getPlace 0
+addPrize 17 92 32
+addPrize 121 300 58
+buyRecord 134 6
+isMember 105
+isMember 114
+buyRecord 87 8
+addCostumer 68 21
+getPhone -25
+putOnTop 10 2
+getExpenses 5
+putOnTop 3 23
+getExpenses 30
+getExpenses 233
+addCostumer 118 131
+makeMember 139
+addPrize 239 151 67
+getExpenses 83
+makeMember 122
+getExpenses 233
+buyRecord 161 19
+getPlace 18
+addCostumer 197 184
+buyRecord 160 5
+addPrize 62 11 27
+isMember 104
+isMember 160
+getPhone 124
+putOnTop 11 2
+getPhone 114
+addPrize 145 148 94
+isMember 169
+isMember 200
+isMember 191
+buyRecord 233 18
+makeMember 131
+buyRecord 160 11
+getPlace 4
+putOnTop 14 3
+getPlace 3
+putOnTop 19 12
+makeMember -9
+getPlace 7
+makeMember 194
+addCostumer 250 132
+getPhone 190
+addPrize -6 199 15
+addCostumer 118 99
+isMember 197
+getPlace 5
+buyRecord 3 21
+getExpenses 200
+getPlace 24
+makeMember 139
+getPlace 11
+buyRecord 236 18
+addPrize 72 255 42
+putOnTop 13 11
+addPrize 128 137 95
+getPlace 22
+addPrize 123 280 55
+makeMember 192
+addPrize 220 270 41
+addPrize -8 270 14
+addCostumer 180 36
+getExpenses 94
+addPrize 0 213 33
+getExpenses 180
+makeMember 68
+addPrize 137 242 30
+getExpenses -52
+getPhone 221
+getPlace 2
+getPlace 3
+putOnTop -1 19
+putOnTop -1 13
+addCostumer 123 93
+isMember 208
+addPrize 161 12 40
+getExpenses 150
+addPrize 57 303 3
+getPhone 22
+getPhone 148
+putOnTop 1 13
+getExpenses 210
+getPlace 3
+addPrize 117 318 88
+getPhone -78
+makeMember -6
+getPlace 20
+getPlace 1
+getPhone 82
+addCostumer 42 9
+makeMember 52
+isMember 215
+addCostumer -4 202
+makeMember -31
+getPlace 0
+getExpenses 179
+buyRecord 69 20
+getExpenses 239
+putOnTop 17 17
+addCostumer 40 73
+isMember 70
+buyRecord 180 6
+buyRecord 179 1
+addCostumer 143 69
+getPlace 14
+addCostumer 209 119
+buyRecord 74 4
+putOnTop 24 20
+makeMember 206
+getPlace 23
+getPlace 3
+isMember 120
+getPlace 4
+addPrize 249 285 34
+addCostumer 56 81
+addCostumer 10 32
+makeMember 74
+makeMember 250
+addPrize 58 150 14
+addCostumer 182 204
+makeMember 10
+getPhone 197
+buyRecord 30 5
+putOnTop 6 11
+buyRecord 219 9
+buyRecord -17 13
+makeMember 132
+putOnTop 24 9
+makeMember -25
+buyRecord 30 3
+getPlace 14
+putOnTop 15 23
+getPlace 22
+buyRecord 56 -53
+isMember 158
+getExpenses 124
+getPlace 12
+getPhone 75
+buyRecord 159 19
+putOnTop 0 20
+getExpenses -53
+getPhone -55
+putOnTop 24 20
+buyRecord -86 12
+addPrize 247 337 51
+makeMember 213
+isMember 170
+buyRecord 169 20
+putOnTop 10 13
+makeMember 236
+isMember -87
+getExpenses 222
+putOnTop 12 0
+putOnTop 8 21
+putOnTop 5 24
+getExpenses -33
+makeMember 87
+getPlace 3
+addPrize 13 328 23
+putOnTop 15 1
+getPlace 13
+makeMember 130
+addPrize 208 145 22
+addCostumer 58 214
+putOnTop 0 5
+addPrize 17 137 85
+putOnTop 24 13
+getPlace 7
+isMember -80
+getExpenses 202
+makeMember 177
+makeMember 215
+getPlace 19
+putOnTop 8 1
